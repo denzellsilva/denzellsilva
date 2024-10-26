@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @denzellsilva
 - 👀 I love programming.
-- 🌱 I’m learning web development presently.
+- 🌱 I’m learning web development.
 - 🏫 Currently studying at St. Vincent's College Inc.
 
 <!---
