@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @denzellsilva
 - 👀 I love programming.
 - 🌱 I’m currently learning web development.
-- 🏫 Currently studying at St. Vincent's College Inc.
+- 🏫 Currently studying at St. Vincent's College Incorated.
 
 <!---
 denzellsilva/denzellsilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
